@@ -1,5 +1,6 @@
 # snipsnap
 LAST VERSION TESTED: py2.7.3
+
 Short python function to cut X characters off the beginning, end, or both of any phytab format file.
 
 invoke by using snipSnap(X,Z) and follow the tkinter prompts.
