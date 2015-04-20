@@ -1,4 +1,3 @@
-import re
 from Tkinter import *
 import Tkinter, tkFileDialog
 import csv
